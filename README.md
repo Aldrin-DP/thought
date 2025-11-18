@@ -1,4 +1,4 @@
-# Thought? 💭
+# Thought? 
 
 A simple blog application where users can share their thoughts and engage in discussions through posts and comments. 
 
@@ -18,12 +18,12 @@ This project was built to practice and demonstrate:
 - Form validation
 - RESTful API design patterns
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Laravel 
 - **Database**: MySQL
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 - Node.js & NPM
 - MySQL
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -82,7 +82,7 @@ Before you begin, ensure you have the following installed:
 
 
 
-## 👤 Author
+## Author
 
 **Aldrin Pelayo**
 
