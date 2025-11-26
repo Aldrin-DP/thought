@@ -13,10 +13,8 @@ A simple blog application where users can share their thoughts and engage in dis
 
 This project was built to practice and demonstrate:
 - Laravel CRUD operations
-- Eloquent ORM relationships (One-to-Many, belongs to)
+- Eloquent ORM relationships 
 - User authentication and authorization
-- Form validation
-- RESTful API design patterns
 
 ## Tech Stack
 
@@ -29,7 +27,6 @@ Before you begin, ensure you have the following installed:
 
 - PHP 8.1 or higher
 - Composer
-- Node.js & NPM
 - MySQL
 
 ## Installation
@@ -68,12 +65,7 @@ Before you begin, ensure you have the following installed:
    php artisan migrate
    ```
 
-6. **Build frontend assets**
-   ```bash
-   npm run dev
-   ```
-
-7. **Start the development server**
+6. **Start the development server**
    ```bash
    php artisan serve
    ```
@@ -89,5 +81,3 @@ Before you begin, ensure you have the following installed:
 - GitHub: [@Aldrin-DP](https://github.com/Aldrin-DP)
 - Portfolio: [https://adpelayo.netlify.app](https://adpelayo.netlify.app)
 ---
-
-If you found this project helpful for learning Laravel, please give it a star!
